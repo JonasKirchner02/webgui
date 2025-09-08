@@ -1,5 +1,5 @@
 // let ws = new WebSocket("wss://socket-server-gui-tweakpane.herokuapp.com:443");
-import {Pane} from "tweakpane";
+import {Pane} from "/tweakpane";
 
 let ws = new WebSocket("wss://webgui-c46f8c72b8cf.herokuapp.com:443");
 
