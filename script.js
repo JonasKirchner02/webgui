@@ -1,7 +1,7 @@
 // let ws = new WebSocket("wss://socket-server-gui-tweakpane.herokuapp.com:443");
 import {Pane} from "tweakpane";
 
-let ws = new WebSocket("://webgui-6.onrender.com:10000");
+let ws = new WebSocket("wss://webgui-6.onrender.com:443");
 
 const pane = new Pane();
 window.pane = pane;
